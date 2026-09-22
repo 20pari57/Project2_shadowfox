@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="favOrbitGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+    <linearGradient id="favToothInner" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#E0F2FE" />
+    </linearGradient>
+  </defs>
+  <!-- Orbit back -->
+  <path d="M 50,92 C 55,62 100,45 160,55 C 195,62 215,75 210,88" fill="none" stroke="url(#favOrbitGrad)" stroke-width="14" stroke-linecap="round" opacity="0.8" />
+  <!-- Tooth Body -->
+  <path d="M 85,25 C 105,27 115,36 120,38 C 125,36 135,27 155,25 C 185,22 205,42 200,82 C 196,115 186,140 178,175 C 174,195 160,205 148,202 C 138,200 135,185 133,165 C 131,148 127,125 120,125 C 113,125 109,148 107,165 C 105,185 102,200 92,202 C 80,205 66,195 62,175 C 54,140 44,115 40,82 C 35,42 55,22 85,25 Z" fill="url(#favToothInner)" stroke="#1E3A8A" stroke-width="14" stroke-linejoin="round" />
+  <!-- Orbit front -->
+  <path d="M 38,118 C 35,108 55,95 90,85 C 130,73 175,72 205,82 C 220,87 225,95 220,104 C 212,118 178,135 135,145 C 90,155 52,150 42,138 Z" fill="url(#favOrbitGrad)" />
+</svg>

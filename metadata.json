@@ -1,0 +1,6 @@
+{
+  "name": "Sakthi Dental Clinic",
+  "description": "Specialized dental care for women, children, and families in Hosur. Compassionate, expert-led dental services in a modern and welcoming clinic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
